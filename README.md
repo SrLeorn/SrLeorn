@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.jpg" alt="Leorn — Arquiteto de ideias. Retrato se transformando em binários azuis e violetas: imaginar, construir e evoluir." width="100%" /></p>
+<p align="center"><img src="banner.jpg" alt="Leorn — Arquiteto de ideias. Binários azuis e violetas formando painéis: imaginar, construir e evoluir." width="100%" /></p>
 
 ### Ideias ganham forma por aqui.
 
@@ -26,4 +26,6 @@ Gosto de imaginar possibilidades, organizar o que precisa ser feito e experiment
 
 [LinkedIn](https://www.linkedin.com/in/srleorn/) · [Instagram](https://www.instagram.com/srleorn/)
 
-<p align="center"><img src="mascot.gif" alt="Gato preto com chapéu de mago atravessa a cena, pula numa plataforma e descansa." width="100%" /></p>
+<p align="center"><img src="mascot.gif" alt="Gato preto com chapéu de mago atravessa a cena, se prepara para saltar e descansa em cima de um gabinete neon." width="100%" /></p>
+
+
