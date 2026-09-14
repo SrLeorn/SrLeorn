@@ -1,18 +1,25 @@
-<p align="center"><img src="banner.jpg" alt="Leorn — Arquiteto de ideias. Binários azuis e violetas formando painéis: imaginar, construir e evoluir." width="100%" /></p>
+<p align="center"><img src="banner-fluxo-v3.png" alt="Leorn — Arquiteto de ideias. Binários azuis e violetas formando painéis: imaginar, construir e evoluir." width="100%" /></p>
+
 
 ### Ideias ganham forma por aqui.
 
+
 Sou o Leorn. Exploro a mistura de **criatividade, código e inteligência artificial** para transformar ideias em projetos digitais.
+
 
 Gosto de imaginar possibilidades, organizar o que precisa ser feito e experimentar até a ideia começar a funcionar. Uso IA como parte do processo e sigo aprendendo com cada construção.
 
+
 ### Como eu crio
+
 
 **01 · Imaginar** — Encontrar uma ideia e desenhar o que ela pode se tornar.  
 **02 · Construir** — Combinar código, ferramentas e IA para tirar a ideia do papel.  
 **03 · Evoluir** — Testar, entender os limites e refinar o resultado.
 
+
 ### Projetos em movimento
+
 
 | Projeto | O que você encontra |
 | :--- | :--- |
@@ -20,12 +27,19 @@ Gosto de imaginar possibilidades, organizar o que precisa ser feito e experiment
 | **[Pacheco Construções](https://github.com/SrLeorn/PachecoConstrucoes)** | Apresentação dos serviços do profissional Izildo. |
 | **[VIA](https://github.com/SrLeorn/VIA)** | Projeto de aplicativo web progressivo (PWA), em sua primeira versão. |
 
+
 [Todos os repositórios →](https://github.com/SrLeorn?tab=repositories)
+
 
 ### Vamos trocar uma ideia?
 
+
 [LinkedIn](https://www.linkedin.com/in/srleorn/) · [Instagram](https://www.instagram.com/srleorn/)
 
-<p align="center"><img src="mascot.gif" alt="Gato preto com chapéu de mago atravessa a cena, se prepara para saltar e descansa em cima de um gabinete neon." width="100%" /></p>
+
+<p align="center"><img src="gato-repouso-v3.png" alt="Gatinho preto deitado, dormindo com seu chapéu de mago roxo." width="420" /></p>
+
+
+
 
 
